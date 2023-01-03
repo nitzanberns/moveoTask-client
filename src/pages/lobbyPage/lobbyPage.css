@@ -1,0 +1,22 @@
+.header {
+  background-color: #337e8b;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: ro;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.addNewCB {
+  font-size: calc(15px + 1.5vmin);
+  margin-left: 10cm;
+  background-color:whitesmoke;
+  color: #337e8b;
+  border-radius: 0.3cm;
+  border-color: whitesmoke;
+  height: 1cm;
+}
+
+

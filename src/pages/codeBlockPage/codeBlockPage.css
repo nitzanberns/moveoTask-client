@@ -1,0 +1,21 @@
+.header {
+    background-color: #337e8b;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.titleVis{
+    align-items: center;
+    position:sticky;
+    font-size: calc(10px + 2vmin);
+    flex-direction: row;
+    margin-right: 1cm;
+    display: flex;
+    height: 1cm;
+    justify-content: space-between;
+}

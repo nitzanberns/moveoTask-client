@@ -1,0 +1,28 @@
+.header {
+    background-color: #337e8b;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.titVis{
+    margin: 1cm auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 0.5cm;
+    margin-right: 3cm;
+    width: 80%;
+    position :relative;
+
+    
+}
+.codeVis{
+    font-size: calc(10px + 2vmin);
+
+}

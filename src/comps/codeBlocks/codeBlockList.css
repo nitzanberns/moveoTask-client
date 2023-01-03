@@ -1,0 +1,36 @@
+.listVis{
+    margin: 1cm auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    margin-top: 0.5cm;
+    margin-right: 3cm;
+    width: 80%;
+    max-width: 35cm;
+    border-radius: 0.3cm;
+    box-shadow: 1px 1px 14px rgba(0, 0, 0, 0.2);
+    position :relative;
+
+}
+
+.titleVis{
+    align-items: center;
+    position:sticky;
+    font-size: calc(10px + 2vmin);
+    flex-direction: row;
+    margin-right: 1cm;
+    display: flex;
+    height: 1cm;
+    justify-content: space-between;
+}
+
+.buttonVis{
+    position: fixed;
+    border-radius: 0.3cm;
+    font-size: calc(10px + 2vmin);
+    margin-left: 20cm;
+    justify-content: space-between;
+    background-color:#337e8b;
+    color: whitesmoke;
+}
